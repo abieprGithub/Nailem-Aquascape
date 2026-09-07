@@ -109,10 +109,19 @@ However, I'm still going to state that this project started before the season an
 
 *This section is intended to show the latest updates, devlogs, or things you should know, and is updated reguarly!*
 
-I'm finally done creating the rough connection diagram of most of the project.
-It's enough to tell you what goes where, but not as detailed as a wiring diagram
-Making it at this stage is kinda pointless since the schematic is already done.
-<br><br>
-Next update should show a completed PCB !!!
+### 7th of September 2026
+
+The main ESP32-S3 IO PCB iteslf has been completed, and has started its production on JLCPCB. It should arrive at my doorsteps within 10-15 days. Meanwhile, I'll be working on the CAD model of the Aquascape with all the time I had. <br>
+It took a total of over 20 hours to make it pretty, both electrically, visually, and functionally, whilst also having the constraints of having to fit inside JLCPCB's economic 2 layer footprint so I don't get taxed by Indonesian customs. <br> <br>
+
+Anyways, here are some 3D model and boardview screenshots!
+<img width="1006" height="982" alt="Screenshot from 2026-09-06 19-20-32" src="https://github.com/user-attachments/assets/19d16dd0-8bf6-41f6-b1de-0d038701f450" />
+<img width="978" height="980" alt="Screenshot from 2026-09-06 19-23-08" src="https://github.com/user-attachments/assets/6fc55613-44cb-434b-9d17-a0a80e58b392" />
+<br>
+Without components:
+<img width="978" height="980" alt="Screenshot from 2026-09-06 19-20-54" src="https://github.com/user-attachments/assets/0a7b5e69-cc57-4359-834e-07bc65285a15" />
+<img width="978" height="980" alt="Screenshot from 2026-09-06 19-22-44" src="https://github.com/user-attachments/assets/dd3450c4-ee93-43e8-8c3c-ed090c2d010c" />
+
+
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
