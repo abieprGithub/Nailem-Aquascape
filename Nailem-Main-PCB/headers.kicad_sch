@@ -2260,30 +2260,6 @@
 			)
 		)
 	)
-	(global_label "END_XMIN"
-		(shape input)
-		(at 165.1 92.71 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "0d96c010-acaf-47ec-a55c-493e6ca68f40")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 177.3985 92.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "5VIN"
 		(shape input)
 		(at 76.2 181.61 0)
@@ -2297,30 +2273,6 @@
 		(uuid "1123ae5f-fcbf-4534-ab0b-8c64518e72fe")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 83.4186 181.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "END_XPLUS"
-		(shape input)
-		(at 165.1 95.25 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "1dd49feb-b540-4dd0-84e4-ff10ae54594a")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 178.8499 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2657,6 +2609,30 @@
 		(uuid "651d6b38-4d0b-4e73-aaff-cf22115105c6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 172.3186 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "END_XPLUS"
+		(shape input)
+		(at 165.1 92.71 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "65511b8f-9106-4c04-9840-f7f95e0616e6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 178.8499 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3041,6 +3017,30 @@
 		(uuid "df21d08d-2748-4a09-bd20-20a590b8d634")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 172.3186 21.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "END_XMIN"
+		(shape input)
+		(at 165.1 95.25 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e9fdeca6-d1cc-4e53-ad9a-a307d2b649ec")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 177.3985 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

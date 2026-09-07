@@ -1,0 +1,266 @@
+(footprint "Relay_SPDT_SANYOU_SRD_Series_Form_C_NoInSilk"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "relay Sanyou SRD series Form C http://www.sanyourelay.ca/public/products/pdf/SRD.pdf")
+	(tags "relay Sanyu SRD form C")
+	(property "Reference" "K1"
+		(at 30.5 -6.61225 180)
+		(layer "B.SilkS")
+		(uuid "984651d6-4acf-4b93-abdb-52c16c7ede52")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Value" "SANYOU_SRD_Form_C"
+		(at 8 -9.6 180)
+		(layer "F.Fab")
+		(uuid "92b76bc0-7d45-4b2f-a3a6-30fdbc8a29ca")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "http://www.sanyourelay.ca/public/products/pdf/SRD.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "73229341-c7a2-4454-851f-b77d80f9391c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Sanyo SRD relay, Single Pole Miniature Power Relay,"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6b6ebff0-14ff-4253-bf0a-10efceacf223")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property ki_fp_filters "Relay*SPDT*SANYOU*SRD*Series*Form*C*")
+	(sheetname "/relay/")
+	(sheetfile "esp32.kicad_sch")
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -1.4 -7.8)
+		(end -1.4 -1.2)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "622c0214-4741-4096-b140-1bc1da3cc883")
+	)
+	(fp_line
+		(start -1.4 -7.8)
+		(end 18.4 -7.8)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9eb263e8-2283-48f9-b177-90fc302f1864")
+	)
+	(fp_line
+		(start -1.4 1.2)
+		(end -1.4 7.8)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "93fd79af-5d0d-41ca-81a5-9ca851203edb")
+	)
+	(fp_line
+		(start 18.4 -7.8)
+		(end 18.4 7.8)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3ec9760d-51f5-4c11-aa49-52414363e2f9")
+	)
+	(fp_line
+		(start 18.4 7.8)
+		(end -1.4 7.8)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d06447da-8276-4dc8-9963-e23ba2ec09a8")
+	)
+	(fp_line
+		(start -1.55 7.95)
+		(end -1.55 -7.95)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0d87233f-58d1-4547-8d28-4ca341c0644d")
+	)
+	(fp_line
+		(start -1.55 7.95)
+		(end 18.55 7.95)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "34dfd5f7-9888-4aa4-a1c7-26923540b3b3")
+	)
+	(fp_line
+		(start 18.55 -7.95)
+		(end -1.55 -7.95)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "372e0594-bbd9-438f-bd6d-920dd215a58d")
+	)
+	(fp_line
+		(start 18.55 -7.95)
+		(end 18.55 7.95)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "59efd7fe-f1dd-4a45-a63e-1e9ef0435cc5")
+	)
+	(fp_line
+		(start -1.3 -7.7)
+		(end 18.3 -7.7)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "392bc655-437b-4bac-a54b-d5bc36894c00")
+	)
+	(fp_line
+		(start -1.3 7.7)
+		(end -1.3 -7.7)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "69f7cbbc-a755-49fb-a40d-8e9b0eb0984c")
+	)
+	(fp_line
+		(start 18.3 -7.7)
+		(end 18.3 7.7)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5c6035de-d702-4906-88cb-42aca40e453e")
+	)
+	(fp_line
+		(start 18.3 7.7)
+		(end -1.3 7.7)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6e277c52-b320-4ee5-915b-6e8028b78b17")
+	)
+	(fp_text user "1"
+		(at 0 -2.3 180)
+		(layer "F.Fab")
+		(uuid "fde5173f-2c18-4cb4-b26b-a17f4db1fcc9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 7.1 0.025 180)
+		(layer "F.Fab")
+		(uuid "63f242c9-cd5b-47da-90b4-c9828b158ebd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0 90)
+		(size 3 3)
+		(drill 1.3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "68b415d7-e99b-4441-bc62-eece30e49d12")
+	)
+	(pad "2" thru_hole circle
+		(at 1.95 6.05 90)
+		(size 2.5 2.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "466a686b-8339-42b3-9feb-69f9222a59c2")
+	)
+	(pad "3" thru_hole circle
+		(at 14.15 6.05 90)
+		(size 3 3)
+		(drill 1.3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "54303876-bbd2-4f0c-832f-08eea1852c7e")
+	)
+	(pad "4" thru_hole circle
+		(at 14.2 -6 90)
+		(size 3 3)
+		(drill 1.3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d8f20b91-416a-474f-8bb7-f4ed1cf8e741")
+	)
+	(pad "5" thru_hole circle
+		(at 1.95 -5.95 90)
+		(size 2.5 2.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "35b0eb81-d2ef-440f-b317-99f2689d6a97")
+	)
+	(embedded_fonts no)
+	(model "${KICAD10_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPDT_SANYOU_SRD_Series_Form_C.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

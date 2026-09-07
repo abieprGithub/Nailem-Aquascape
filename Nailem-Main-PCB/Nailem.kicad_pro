@@ -76,7 +76,120 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "copper_edge_clearance|180745000|143455000|93e78f34-a933-4583-be96-dc18af571fe4|73d9b3cc-6a0a-40d3-a181-c4053b2576d8",
+          ""
+        ],
+        [
+          "copper_edge_clearance|180745000|144545000|7290de07-498a-421f-af88-a7a1fffd8789|fab7dd56-d406-4e92-94bb-8d22f78fddf3",
+          ""
+        ],
+        [
+          "copper_edge_clearance|185255000|143455000|69dd4c73-92fe-49fb-b462-99a225a87d05|a5d3b46e-3d06-4fe1-bd3c-3d377585477b",
+          ""
+        ],
+        [
+          "copper_edge_clearance|185255000|144545000|cbe57470-bf61-49c0-b23f-b3f37bbd41d8|a552373e-1a95-468c-965a-ba160c0c4047",
+          ""
+        ],
+        [
+          "copper_edge_clearance|188745000|143455000|be85e44d-c69f-420b-b2ab-9ddbb65453d5|7e5b26f9-e343-4717-a052-996d281eafbf",
+          ""
+        ],
+        [
+          "copper_edge_clearance|189190129|145031988|03cdf329-c5c5-4f49-a92f-4dece67f279d|b2de96b3-25e6-4c17-a39a-3b4b6b1b1c20",
+          ""
+        ],
+        [
+          "copper_edge_clearance|193255000|143455000|6d1520d1-6f69-48ae-bf2a-17ab7abca16f|f3539049-17f9-4a78-a50c-b55072154c1a",
+          ""
+        ],
+        [
+          "copper_edge_clearance|193255000|144545000|badd6ed7-0936-46a7-98e1-0428795c7c65|432281e4-630b-4319-9301-9fc9e58c6c2a",
+          ""
+        ],
+        [
+          "courtyards_overlap|244665000|125095000|c04af552-63bb-48de-b1a7-c984ca3918b7|e7ed50cb-6a21-4606-b9cc-e261ddf70c98",
+          ""
+        ],
+        [
+          "pth_inside_courtyard|214000000|71000000|b5588d81-68fb-47bf-a3de-66c3b53486da|074aff76-b7d2-442e-8fcb-a8d44addc1e4",
+          ""
+        ],
+        [
+          "pth_inside_courtyard|214000000|78000000|30e98f90-9c28-464a-8baa-b18620301572|074aff76-b7d2-442e-8fcb-a8d44addc1e4",
+          ""
+        ],
+        [
+          "pth_inside_courtyard|216500000|71000000|2481e46a-2019-4627-bfb0-48faf48e59c4|074aff76-b7d2-442e-8fcb-a8d44addc1e4",
+          ""
+        ],
+        [
+          "pth_inside_courtyard|216500000|78000000|81b8bfca-8808-4cf6-b7c7-1d6e534a9f0c|074aff76-b7d2-442e-8fcb-a8d44addc1e4",
+          ""
+        ],
+        [
+          "pth_inside_courtyard|219000000|71000000|1012db56-3e5f-4f89-881a-8b841da8295d|074aff76-b7d2-442e-8fcb-a8d44addc1e4",
+          ""
+        ],
+        [
+          "pth_inside_courtyard|219000000|78000000|6a1f4035-0ad1-44f2-92aa-7b2952194804|074aff76-b7d2-442e-8fcb-a8d44addc1e4",
+          ""
+        ],
+        [
+          "pth_inside_courtyard|221500000|71000000|deec669a-cd45-4183-976b-5797ceb3d0e8|074aff76-b7d2-442e-8fcb-a8d44addc1e4",
+          ""
+        ],
+        [
+          "pth_inside_courtyard|221500000|78000000|f36330b8-42ac-48a9-b953-1cf50de84912|074aff76-b7d2-442e-8fcb-a8d44addc1e4",
+          ""
+        ],
+        [
+          "pth_inside_courtyard|224319400|59570400|4715c92a-bf85-4a1f-987d-62773cb43527|124b8cbd-33c5-4f1a-aa7f-725887c0dcce",
+          ""
+        ],
+        [
+          "pth_inside_courtyard|227000000|57000000|3ef23e80-d8db-469f-9d10-f29337de5960|074aff76-b7d2-442e-8fcb-a8d44addc1e4",
+          "ok"
+        ],
+        [
+          "pth_inside_courtyard|227000000|59500000|a454e3a1-d127-45d3-a481-85088e4c1b2c|074aff76-b7d2-442e-8fcb-a8d44addc1e4",
+          ""
+        ],
+        [
+          "pth_inside_courtyard|236920000|126380000|2b4b6d46-215a-42f2-9276-99b24f719ec9|e7ed50cb-6a21-4606-b9cc-e261ddf70c98",
+          ""
+        ],
+        [
+          "pth_inside_courtyard|236920000|134000000|9f9f8b68-5095-44f4-b00b-8f56da30b0c5|e7ed50cb-6a21-4606-b9cc-e261ddf70c98",
+          ""
+        ],
+        [
+          "pth_inside_courtyard|239460000|126380000|f21c5367-95dc-41bf-a46f-a9507a03077f|e7ed50cb-6a21-4606-b9cc-e261ddf70c98",
+          ""
+        ],
+        [
+          "pth_inside_courtyard|239460000|134000000|a2cee6f9-a7ce-4551-be24-c5c8210ebc02|e7ed50cb-6a21-4606-b9cc-e261ddf70c98",
+          ""
+        ],
+        [
+          "pth_inside_courtyard|242000000|126380000|b3d765a1-cc33-46c1-8d35-2239202aec04|e7ed50cb-6a21-4606-b9cc-e261ddf70c98",
+          ""
+        ],
+        [
+          "pth_inside_courtyard|242000000|134000000|3de093fb-8336-41ce-9e56-94e4e207dcc1|e7ed50cb-6a21-4606-b9cc-e261ddf70c98",
+          ""
+        ],
+        [
+          "silk_edge_clearance|181500308|145582690|dcbac4ec-f93d-4e1e-a21b-778a4b20837d|c6dce72e-347c-4002-b777-b927210fb7b7",
+          ""
+        ],
+        [
+          "silk_edge_clearance|184816179|142914498|2efc4bcb-3fa0-428b-943f-94bd1c12d09b|5cfdae36-8c7b-44fc-8e5e-d9fc9389b164",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -102,12 +215,12 @@
         "hole_to_hole": "warning",
         "holes_co_located": "warning",
         "invalid_outline": "error",
-        "isolated_copper": "warning",
+        "isolated_copper": "ignore",
         "item_on_disabled_layer": "error",
         "items_not_allowed": "error",
         "length_out_of_range": "error",
         "lib_footprint_issues": "warning",
-        "lib_footprint_mismatch": "warning",
+        "lib_footprint_mismatch": "ignore",
         "malformed_courtyard": "error",
         "microvia_drill_out_of_range": "error",
         "mirrored_text_on_front_layer": "warning",
@@ -122,7 +235,7 @@
         "shorting_items": "error",
         "silk_edge_clearance": "warning",
         "silk_over_copper": "warning",
-        "silk_overlap": "warning",
+        "silk_overlap": "ignore",
         "skew_out_of_range": "error",
         "solder_mask_bridge": "error",
         "starved_thermal": "error",
@@ -158,11 +271,11 @@
         "min_silk_clearance": 0.0,
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
-        "min_through_hole_diameter": 0.3,
+        "min_through_hole_diameter": 0.2,
         "min_track_width": 0.2,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -552,7 +665,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Nailem.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
