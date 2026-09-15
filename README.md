@@ -109,6 +109,29 @@ However, I'm still going to state that this project started before the season an
 
 *This section is intended to show the latest updates, devlogs, or things you should know, and is updated reguarly!*
 
+### 15th of September 2026
+
+While waiting for the PCB to arrive, I took some time to create the CAD of the Aquascape. <br>
+P.S, I haven't pushed the CAD to main since it's a little too large, I'll optimize it. <br>
+Currently, it has seen great progress and I have created a few things: <br>
+1) The aquarium glass
+2) Most of the surface cleaning gantry mechanism, which includes:
+3) Stepper motor Bracket
+4) Endstops
+5) Frame
+6) Pulleys
+7) Ultrasonic sensor bracket
+8) Control box
+
+A lot of things are still yet to be implemented, so let things continue. <br>
+Meanwhile, here are some latest pictures.
+<img width="1280" height="720" alt="fa57c02a-535e-4093-b632-b597ec595e62" src="https://github.com/user-attachments/assets/5bbbaf54-1385-42fe-af56-a499221dea75" />
+<img width="776" height="705" alt="Screenshot 2026-09-12 121332" src="https://github.com/user-attachments/assets/0b0cde69-fc14-4060-bf65-32155d12eba5" />
+<img width="818" height="708" alt="Screenshot 2026-09-12 121404" src="https://github.com/user-attachments/assets/bdd8b061-a8df-433b-b96b-a5e7be8bc44a" />
+<img width="785" height="807" alt="Screenshot 2026-09-12 121252" src="https://github.com/user-attachments/assets/43a7be51-aa7a-490e-8192-fea6b88f07a0" />
+<img width="886" height="772" alt="Screenshot 2026-09-12 121352" src="https://github.com/user-attachments/assets/814889bd-c9c4-4e86-b208-8f0dcfb71202" />
+
+
 ### 7th of September 2026
 
 The main ESP32-S3 IO PCB iteslf has been completed, and has started its production on JLCPCB. It should arrive at my doorsteps within 10-15 days. Meanwhile, I'll be working on the CAD model of the Aquascape with all the time I had. <br>
